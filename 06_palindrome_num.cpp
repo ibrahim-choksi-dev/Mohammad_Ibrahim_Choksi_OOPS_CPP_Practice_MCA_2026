@@ -26,6 +26,4 @@ int main(){
         cout<< original << " is not palindrome";
     }
     return 0;
-    
-    
 }
